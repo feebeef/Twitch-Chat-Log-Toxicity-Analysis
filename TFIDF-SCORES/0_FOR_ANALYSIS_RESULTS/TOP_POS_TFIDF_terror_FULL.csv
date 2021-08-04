@@ -1,0 +1,11 @@
+,DH POS-SEQ,DH value,HS POS-SEQ,HS value,SH POS-SEQ,SH value,TR POS-SEQ,TR value,OT POS-SEQ,OT value,TX POS-SEQ,TX value
+0,noun verb,2.840746084061782,propn propn,2.07724959388451,propn noun,1.0,adj noun,1.1618070102714846,verb propn,2.0,noun verb,2.8851936074087616
+1,noun adj,2.073148806982013,propn propn num,1.4160330784847428,noun noun,1.0,verb noun,0.8568164290293194,verb noun,0.9380756434183756,verb noun,1.9017701469270043
+2,noun verb noun,2.009364069024317,propn num,1.1585827977642529,propn verb noun,0.7199531018181102,noun verb verb,0.7394187654607944,verb noun emoji,0.7492303573130462,noun verb noun,1.782149769401194
+3,propn propn,1.9579169996840893,propn propn propn num,1.1197292643464556,propn verb,0.5570486771558198,pron verb noun,0.7046929867851905,verb noun verb,0.5868657311364033,adj noun verb,1.370300586506238
+4,adj noun,1.691532065257651,adj noun,0.7551210210438704,verb noun,0.4139617161784807,verb verb,0.6703532810449537,noun emoji,0.5828224850787601,adj noun,1.280482380413028
+5,verb noun,1.6657742085426723,propn propn propn,0.7012050561414632,pron verb propn propn,0.0,pron verb,0.652751954723041,pron verb verb noun,0.564421170360654,num noun,1.0
+6,propn noun,1.226437649700561,num adj noun,0.6962745246756241,pron verb propn adv,0.0,pron noun pron,0.6132425095445655,pron verb verb,0.4682222054382722,propn noun,1.0
+7,adj verb,1.169105523598858,noun adj noun,0.6938315623562649,pron verb propn emoji,0.0,noun pron,0.5985848931153798,verb verb noun,0.4355433656664382,num propn,1.0
+8,adj adj,1.0,num adj,0.6468227807041154,pron verb propn noun,0.0,noun verb verb noun,0.5756784994452849,noun verb,0.4170644007535031,noun noun,0.9846943385272202
+9,num propn,1.0,noun propn propn num,0.6119114382731359,pron verb propn num,0.0,noun verb,0.4765697538934151,noun verb noun verb,0.3719311290948837,verb adj,0.9359227720286204
