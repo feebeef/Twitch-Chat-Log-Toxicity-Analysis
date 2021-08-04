@@ -1,11 +1,11 @@
 ,DH POS-SEQ,DH value,HS POS-SEQ,HS value,SH POS-SEQ,SH value,TR POS-SEQ,TR value,OT POS-SEQ,OT value,TX POS-SEQ,TX value
-0,emoji emoji,2.935738584370035,adj adj,0.0,intj noun verb,0.4208364738366548,adj adj,0.0,adj adj,0.0,noun verb,0.9504465719990312
-1,emoji emoji emoji,2.5815181350891008,propn adv verb,0.0,intj noun verb pron,0.4208364738366548,propn adv verb,0.0,propn adv verb,0.0,propn noun verb,0.7401333370875368
-2,noun verb,2.4421495862388163,propn emoji emoji propn,0.0,noun verb pron noun,0.4018911897322736,propn emoji emoji propn,0.0,propn emoji emoji propn,0.0,emoji emoji,0.5666855623339878
-3,propn noun verb,2.2204000112626106,propn emoji emoji emoji,0.0,verb pron noun,0.3505587285335916,propn emoji emoji emoji,0.0,propn emoji emoji emoji,0.0,propn noun,0.4566208315776227
-4,emoji emoji emoji emoji,2.1922414288785106,propn emoji emoji,0.0,noun verb pron,0.3333768544527353,propn emoji emoji,0.0,propn emoji emoji,0.0,verb noun,0.4188276290287723
-5,propn noun,1.872125440032692,propn emoji,0.0,intj noun,0.2764080722639239,propn emoji,0.0,propn emoji,0.0,emoji emoji emoji,0.4049450954219902
-6,propn propn,1.6765211781906924,propn adv verb verb,0.0,pron noun,0.275358032124242,propn adv verb verb,0.0,propn adv verb verb,0.0,adj num noun verb,0.398621995309609
-7,verb noun,1.3432953209777554,propn adv verb pron,0.0,verb pron,0.2540507018863909,propn adv verb pron,0.0,propn adv verb pron,0.0,num noun verb verb,0.398621995309609
-8,verb verb,1.2236126436651011,propn adv verb noun,0.0,noun verb,0.1829754616340361,propn adv verb noun,0.0,propn adv verb noun,0.0,adj num noun,0.3580684512215663
-9,noun verb verb,1.0900631941183605,propn adv verb adv,0.0,propn adv pron adv,0.0,propn adv verb adv,0.0,propn adv verb adv,0.0,adj num,0.3372668516450088
+0,emoji emoji,3.4775985851118207,adj adj,0.0,intj noun verb,0.5174731256573535,adj adj,0.0,adj adj,0.0,noun verb,1.0967822790381787
+1,emoji emoji emoji,3.060729567241485,pron pron noun,0.0,verb pron noun,0.4310575063205108,pron pron noun,0.0,pron pron noun,0.0,propn noun verb,0.7401333370875368
+2,noun verb,2.7279416456922583,pron verb pron,0.0,noun verb pron,0.4099301596240294,pron verb pron,0.0,pron verb pron,0.0,emoji emoji,0.6579035432946503
+3,propn noun verb,2.2204000112626106,pron verb num,0.0,intj noun,0.3398796397264131,pron verb num,0.0,pron verb num,0.0,verb noun,0.5530028051019305
+4,propn noun,1.872125440032692,pron verb noun,0.0,pron noun,0.3385884789384872,pron verb noun,0.0,pron verb noun,0.0,emoji emoji emoji,0.4701281112944618
+5,propn propn,1.7314633762742548,pron verb emoji,0.0,verb pron,0.3123883478588939,pron verb emoji,0.0,pron verb emoji,0.0,adj num noun,0.4631162649632634
+6,verb noun,1.573117086498202,pron verb adv,0.0,noun verb,0.2249921048599823,pron verb adv,0.0,pron verb adv,0.0,propn noun,0.4566208315776227
+7,verb verb,1.4360038280736145,pron verb adp,0.0,propn intj intj,0.0,pron verb adp,0.0,pron verb adp,0.0,num noun verb,0.436212026211451
+8,noun verb verb,1.418623450969208,pron verb adj,0.0,pron pron noun,0.0,pron verb adj,0.0,pron verb adj,0.0,adj num,0.436212026211451
+9,verb verb noun,0.9814157857142136,pron verb,0.0,pron verb num,0.0,pron verb,0.0,pron verb,0.0,propn propn emoji,0.3563494092834893
