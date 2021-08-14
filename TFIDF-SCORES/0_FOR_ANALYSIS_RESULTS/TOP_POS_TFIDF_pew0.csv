@@ -1,11 +1,11 @@
 ,DH POS-SEQ,DH value,HS POS-SEQ,HS value,SH POS-SEQ,SH value,TR POS-SEQ,TR value,OT POS-SEQ,OT value,TX POS-SEQ,TX value
-0,noun noun,3.0,adj adj,0.0,propn adj,1.0,noun propn noun,5.293245294839082,adj adj,0.0,adj adp,1.0
-1,noun verb,2.0,pron pron,0.0,adj adj,0.0,verb noun propn,5.064659804897745,pron pron,0.0,noun verb,0.9922533093105323
-2,verb verb adp,0.4002323663523784,pron noun noun,0.0,pron num noun,0.0,propn propn verb,4.8429702079864425,pron noun noun,0.0,noun verb propn,0.7203155445527598
-3,verb adp adj,0.4002323663523784,pron noun num,0.0,pron noun noun,0.0,propn verb noun,4.182573820586177,pron noun num,0.0,verb noun verb,0.7159403386005025
-4,adp adj noun,0.3781077314743239,pron noun pron,0.0,pron noun num,0.0,noun propn,3.691768677375545,pron noun pron,0.0,verb propn,0.5189507501554602
-5,adp adj,0.3655232412195352,pron noun propn,0.0,pron noun pron,0.0,propn verb,3.2931929135277715,pron noun propn,0.0,noun noun,0.4592825260808426
-6,verb adp,0.3020029390921084,pron noun verb,0.0,pron noun propn,0.0,propn noun,3.09453959766796,pron noun verb,0.0,verb noun,0.4531624576794311
-7,propn verb verb,0.2902070428155889,pron num,0.0,pron noun verb,0.0,propn propn,3.04022218377051,pron num,0.0,propn verb pron,0.4450891571232516
-8,noun propn verb,0.2849311484246253,pron num noun,0.0,pron num,0.0,verb noun,2.649769776298191,pron num noun,0.0,verb pron adv,0.4376433369852412
-9,noun propn,0.2085143632405831,pron pron adj,0.0,pron pron,0.0,propn adj adj,0.7176682935304406,pron pron adj,0.0,propn noun noun,0.4037289963710742
+0,noun,3.1402456784374717,adj,0.0,propn adj,0.8267086718270247,propn,4.832404574160506,adj,0.0,noun,1.7279956303807014
+1,noun noun,2.071747406710355,pron noun propn,0.0,adj,0.4514225254008245,noun propn noun,4.716697575769605,pron noun propn,0.0,propn,1.2269911975390562
+2,noun verb,1.5974506192621984,pron verb,0.0,propn,0.3358131556189223,verb noun propn,4.513009938751607,pron verb,0.0,adj,1.0
+3,verb,1.1951536564835212,pron propn verb,0.0,pron num,0.0,propn propn verb,4.315467084400159,pron propn verb,0.0,verb,0.8738665657687091
+4,propn,1.1212971293694147,pron propn propn,0.0,pron num noun,0.0,propn verb noun,3.7171061263893104,pron propn propn,0.0,noun verb,0.8594205803172535
+5,verb verb adj,0.4112867639717389,pron propn pron,0.0,pron pron,0.0,noun propn,3.287750106560831,pron propn pron,0.0,noun verb propn,0.6505566822844152
+6,propn verb verb,0.3694216554590808,pron propn noun,0.0,pron pron adj,0.0,propn verb,2.9320629089597974,pron propn noun,0.0,verb noun verb,0.5939709899379928
+7,noun propn verb,0.362705658421147,pron propn emoji,0.0,pron pron adv,0.0,propn noun,2.755534548594459,pron propn emoji,0.0,verb propn,0.4688377355731002
+8,verb adj noun,0.3199548541940245,pron propn,0.0,pron pron verb,0.0,propn propn,2.702093814924846,pron propn,0.0,propn verb pron,0.4089737837980063
+9,noun propn,0.2652764440288875,pron pron verb,0.0,pron verb adj,0.0,noun,2.626303976127087,pron pron verb,0.0,noun noun,0.4072459424852768
