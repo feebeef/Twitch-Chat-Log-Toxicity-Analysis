@@ -1,0 +1,66 @@
+Topic,Topic Top 10 Keywords,Inferred Topic,Direct Harassment,Hate Speech,Sexual Harassment,Trolling,Others,Toxic
+1,"['ðÿ', 'ƒðÿ', 'šðÿ', 'žðÿ', '¼ðÿ', 'œðÿ', '½ðÿ', 'trumpðÿ', 'ºðÿ', 'trump2020â']",Custom Emoji trump,-,-,-,0.0201,-,0.0139
+11,"['go', 'home', 'miss', 'hell', 'john', 'away', 'brazil', 'letâ', 'bed', 'creepy']",,0.0456,0.0279,-,0.0437,0.0245,0.048
+12,"['maga', 'forever', 'kag', 'motown', 'tear', 'law', 'millennial', 'season', 'order', 'rider']",,-,0.017,-,0.0284,-,0.0203
+13,"['win', 'must', 'winning', 'hope', 'big', 'crucial', 'wining', 'state', 'tired', 'wait']",winning the electio,0.0266,0.049,-,0.0547,-,0.0252
+14,"['president', 'vice', 'mr', 'amazing', 'never', 'greatest', 'elect', 'bless', 'af1', 'next']",praising vice president,-0.0139,-,-,-,-,-0.0242
+15,"['america', 'first', 'bles', 'hate', 'wake', 'save', 'open', 'part', 'prosperous', 'burning']",mocking america,0.0273,0.0601,-,0.05,0.0244,0.023
+19,"['joe', 'sleepy', 'creepy', 'corrupt', 'george', 'dementia', '47', 'frack', 'hell', 'wake']",mocking Joe Biden,0.1278,0.1075,-,0.0953,0.0416,0.106
+2,"['trump', '2q2q', 'latinos', 'ohio', 'florida', 'brazil', 'pa', '2020â', 'women', 'americans']",,-0.048,-0.0468,-,-0.0357,-0.0172,-0.0341
+20,"['thank', 'donation', 'kind', 'patriot', 'service', 'karen', 'side', 'mark', 'veteran', 'choose']",thanking patriots for service,-,-,-,0.0184,-,0.0173
+22,"['usa', 'destroy', 'stream', 'commie', 'england', 'share', 'prayer', 'stand', 'defend', 'slovenia']",,0.0448,0.0796,-,0.0636,0.025,0.0257
+24,"['like', 'hit', 'button', 'smash', 'stream', 'share', 'look', 'depend', 'everyone', 'click']",show supprt to the stream,0.0628,0.07,0.0267,0.07,0.0351,0.0548
+25,"['california', 'dems', 'flip', '_rsbnredcalif', 'ruin', 'destructive', 'turn', 'latinos', 'yt', 'flipping']",latinos in california,-,0.0345,-,0.0377,0.0166,0.0182
+26,"['amen', 'brother', 'lord', 'see', '4ever', 'magnify', 'wisdom', 'forth', 'settle', 'guide']",,-,-,-,-,-,-0.0178
+27,"['get', 'rid', 'ready', 'troll', 'creepy', 'ticket', 'see', 'sleepy', 'patriots', 'time']",,0.0425,0.0648,-,0.0622,0.023,0.0466
+29,"['swamp', 'drain', 'integrity', 'bring', 'damn', 'corrupt', 'demonrats', 'evil', 'deep', 'back']",mocking democrats,0.0319,0.0353,-,0.0452,-,0.0159
+31,"['people', 'many', 'stupid', 'dead', 'covid', 'big', 'look', 'power', 'tech', 'brain']",,0.0695,0.089,-,0.0777,0.035,0.0619
+32,"['good', 'luck', 'ever', 'look', 'evil', 'vs', 'potus', 'song', 'really', 'lord']",,0.0309,0.0235,-,0.028,-,0.0326
+33,"['china', 'virus', 'pay', 'communist', 'home', 'must', 'owns', 'covid', 'electric', 'firing']",mockin china and communist,0.0609,0.1355,-,0.1116,0.0491,0.0456
+34,"['come', 'yet', 'best', 'time', 'stupid', 'tsunami', 'george', 'wake', 'thumb', 'sleepy']",,0.0355,0.0349,-,0.0357,0.0227,0.0377
+35,"['let', 'friend', 'gooooooo', 'intimidate', 'medium', 'fly', 'gooooo', 'see', 'work', 'turn']",,0.0389,0.0378,-,0.0604,-,0.0281
+37,"['back', 'blue', 'bring', 'integrity', 'send', 'law', 'basement', 'police', 'mask', 'put']",,0.0307,0.0327,-,0.0445,0.0256,0.0153
+4,"['pence', 'vice', 'indiana', 'speaker', 'yay', 'rock', 'think', 'prosperous', 'amazing', 'speech']",praising the speaker,-,-0.0246,-,-,-,-0.0174
+40,"['man', 'young', 'smart', 'choice', 'speak', 'bad', 'black', 'orange', 'amazing', 'thumb']",,0.0181,0.0316,0.0148,0.0456,0.0193,0.0236
+41,"['country', 'save', 'destroy', 'open', 'would', 'communist', 'across', 'god', 'leave', 'guns']",mocking the counry,0.0541,0.0769,-,0.0667,0.0237,0.0331
+42,"['hunter', 'crack', 'whereâ', 'campaign', 'hunted', 'laptop', 'hell', 'footjobs', 'rose', 'barr']",mocking campaign,0.0566,0.0816,0.0214,0.0865,0.0414,0.0685
+44,"['say', 'true', 'time', 'corn', 'think', 'left', 'well', 'pop', 'just', 'crime']",,0.0669,0.0837,-,0.0989,0.0228,0.0484
+47,"['suck', 'cnn', 'choice', 'song', 'news', 'by', 'fake', 'msm', 'twitter', 'netherlands']",mocking the news channel,0.069,0.0942,-,0.0843,0.0301,0.0809
+48,"['right', 'side', 'broadcasting', 'life', 'das', 'left', 'network', 'huh', 'uh', 'poll']",right side broadcasting,0.0361,0.061,-,0.0569,0.0283,0.0355
+49,"['make', 'promise', 'sure', 'cry', 'happen', 'election', 'pennsylvania', 'poll', 'mexican', 'try']",,0.0351,0.0408,0.0187,0.0522,0.0155,0.029
+5,"['biden', 'jail', 'rise', 'taxi', '47', 'gitmo', 'corrupt', 'moron', 'crime', 'home']",mocking Joe Biden,0.1727,0.1805,-,0.1713,0.0546,0.1455
+51,"['need', 'help', 'brazil', 'votes', 'granted', 'nothing', 'world', 'yet', 'well', 'russia']",,0.0331,0.0662,-,0.0813,0.0369,0.0335
+52,"['every', 'democrat', 'remove', 'state', 'time', 'votered', 'corrupt', 'count', 'friend', 'party']",mocking democrats,0.0413,0.0838,-,0.0778,0.029,0.0306
+53,"['new', 'york', 'jersey', 'mexico', 'deal', 'green', 'welcome', 'member', 'state', 'cnn']",,0.0351,0.0549,0.0158,0.068,0.0313,0.0286
+54,"['lol', 'cry', 'talk', 'troll', 'live', 'mask', 'supporter', 'liberal', 'wear', 'hate']",mocking liberals,0.0736,0.0462,-,0.0546,0.0258,0.0509
+55,"['bye', 'nancy', 'den', 'troll', 'hello', 'turkey', 'crazy', 'trolls', 'home', 'oh']",,0.0671,0.0505,-,0.0598,0.0265,0.0307
+57,"['canada', 'germany', 'europe', 'today', 'austrian', 'russian', 'france', 'big', 'hope', 'terror']",terrorism ,0.0241,0.0382,-,0.0439,0.0248,0.0334
+59,"['prison', 'son', 'obama', 'beijing', '2021', 'life', 'âš', 'bill', 'fauci', 'infirmary']",,0.0566,0.076,-,0.0707,0.059,0.0702
+61,"['democrats', 'hate', 'fake', 'cheat', 'election', 'republican', 'rid', 'party', 'medium', 'steal']",mocking democrats and republicans,0.0641,0.1305,-,0.0983,0.0234,0.0591
+64,"['american', 'black', 'patriot', 'first', 'hero', 'true', 'real', 'proud', 'christians', 'history']",,0.0392,0.0765,-,0.0597,0.0349,0.025
+67,"['matter', 'laptop', 'life', 'blm', 'black', 'live', 'lives', 'blue', 'bidens', 'hell']",,0.03,0.0638,-,0.0435,0.0223,0.0336
+68,"['gaga', 'lady', 'gag', 'hell', '2nd', 'goo', 'fracking', 'member', 'kaka', 'boycott']",mocking lady gaga,0.0686,0.0666,0.0426,0.052,0.0286,0.0868
+69,"['elbowcough', 'bismillah', 'gooo000', 'wherd', 'yt', 'song', 'four', 'young', 'ƒðÿ', 'corona']",,-,0.0243,-,0.0419,-,0.0231
+71,"['lose', 'election', 'see', 'screw', 'already', 'black', 'still', 'mind', 'chinese', 'troll']",,0.0654,0.0748,-,0.0714,0.0294,0.0353
+74,"['one', 'day', 'force', 'airforce', 'air', 'choose', 'potus', 'nation', '3rd', 'real']",,0.0233,0.0322,-,0.0489,0.024,0.031
+75,"['jesus', 'lord', 'christ', 'king', 'name', 'trust', 'praise', 'bible', 'forever', 'repent']",religion,0.0214,0.0201,-,0.054,0.0167,0.0299
+76,"['rally', 'next', 'today', 'last', 'watch', 'us', 'https', 'join', 'election', 'com']",,-,0.0199,-,0.0468,-,0.0157
+77,"['guy', 'big', 'smart', 'black', '10', 'nice', 'last', 'rock', 'tech', 'speaker']",praising a tech speaker,0.0605,0.0475,-,0.0519,0.029,0.0406
+78,"['keep', 'promise', 'us', 'real', 'senate', 'faith', 'republic', 'give', 'hit', 'founding']",supporting replulicans,0.03,0.0463,-,0.0327,0.0248,0.0283
+79,"['lock', 'whitmer', 'obama', 'hillary', 'pa', 'load', 'would', 'must', 'guillotines', 'fraud']","mocking obama, hillary, whitmer",0.05,0.0693,-,0.0885,0.043,0.0472
+81,"['want', 'see', 'know', 'gun', 'taxi', 'would', 'nobody', 'hope', 'eat', 'even']",wanting to see taxi shooting ,0.0522,0.0832,-,0.086,0.0468,0.0538
+84,"['wow', 'crowd', 'look', 'amazing', 'big', 'huge', 'truth', 'massive', 'mask', 'winner']",describing the crowd,0.0366,0.0187,-,0.0431,-,0.0447
+86,"['stop', 'scorecard', 'hammer', 'steal', 'election', 'lie', 'operation', 'nothing', 'know', 'time']",,0.0608,0.0671,-,0.0729,0.0373,0.0392
+87,"['mr', 'family', 'crime', 'four', 'first', 'vice', 'gitmo', 'score', 'run', 'team']",,0.0398,0.029,-,0.0588,0.0313,0.0266
+88,"['socialism', 'distancing', 'practice', 'part', 'communism', 'never', 'four', 'americans', 'âœšâœšâœšâœšâœšâœšâœšâœšâœšâœšâœšâœš', 'watch']",,0.0354,0.091,-,0.0442,0.0392,0.0306
+89,"['take', 'care', 'business', 'house', 'senate', 'home', 'long', 'vaccine', 'nothing', 'rid']",,0.0354,0.0403,-,0.0726,0.0186,0.0184
+9,"['james', 'john', 'senate', 'elect', 'rocks', 'peters', 'fly', 'senator', 'future', 'run']",,-0.0162,-,-,-,-,-0.0226
+90,"['penny', 'talk', 'capable', 'see', 'look', 'pompeo', 'tell', 'obama', 'goodvibe', 'match']",,0.0578,0.0262,-,0.0293,0.0297,0.0355
+92,"['harris', 'kamala', 'hate', 'heels', 'well', 'evil', 'commie', 'cornpop', 'bad', 'hose']",mocking kamala harris,0.1079,0.1186,0.0253,0.0931,0.0444,0.0731
+93,"['show', 'tape', 'share', 'news', 'fake', 'patriots', 'stream', 'fox', 'cnn', 'see']", news channels mocked as fake news,0.0602,0.0485,-,0.0795,0.02,0.0291
+94,"['baby', 'live', 'yeah', 'unborn', 'florida', 'time', 'day', 'ohio', 'know', 'cali']",,0.0294,0.0278,-,0.0522,0.0203,0.0391
+95,"['pelosi', 'nancy', 'fire', 'retire', 'jail', 'mars', 'obama', 'gitmo', 'send', 'house']",mocking nancy pelosi,0.0575,0.06,-,0.0619,0.0331,0.056
+96,"['way', 'already', 'ticket', 'republican', 'life', 'rid', 'corrupt', 'medium', 'today', 'stake']",mocking republican,0.0352,0.0326,-,0.0528,0.0268,0.0352
+97,"['free', 'kyle', 'know', 'truth', 'election', '100', 'speech', 'everyone', 'world', 'illinois']",,0.0222,0.0284,-,0.0558,0.0289,0.0271
+98,"['_rsbnusa', '_rsbntrump', 'rsbnusa', '_rsbnkag', '_rsbncross', '_rsbnlogo', '_rsbnusa2', 'tsunami', '_rsbnmagahat', '_rsbnredcalif']",,0.0226,-,0.019,0.0335,-,0.018
+99,"['uk', '_rsbnusa2', 'election', 'watch', 'rsbnusa2', '2028', 'salty', 'army', 'hello', 'trumo']",,0.0206,0.0261,-,0.0326,-,0.0192

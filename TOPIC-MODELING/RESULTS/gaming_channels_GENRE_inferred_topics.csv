@@ -1,0 +1,34 @@
+Topic,Topic Top 10 Keywords,Infered Topics,Direct Harassment,Hate Speech,Sexual Harassment,Trolling,Others,Toxic
+0,"['lol', 'arcadum', 'lily', 'toast', 'hair', 'edgar', 'username', 'wtf', 'zorro', 'nox']",,0.0198,-0.0149,-,-,-,0.0141
+11,"['blm', 'joke', 'racist', 'death', 'terrorist', 'stupid', 'acab', 'stfu', 'toxic', 'care']",racsim,0.0227,0.1448,0.0164,0.0222,-,0.038
+13,"['like', 'yayayayayaya', '2x', 'forget', 'sound', 'video', 'feel', 'look', 'hit', 'hour']",,0.0296,-,0.0163,-,-,0.0167
+15,"['chat', 'toxic', 'read', 'look', 'close', 'anti', 'racist', 'proximity', 'night', 'need']",chat being toxic and racist,0.0356,-,-,-,-,0.024
+17,"['oh', 'uh', 'god', 'boy', 'yeah', 'shit', 'nooo', 'fuck', 'noooo', 'shoot']",negative interjections ,-,-,-,-,-,0.028
+20,"['brian', 'night', 'look', 'keep', 'stop', 'day', 'dad', 'mau', 'okay', 'silent']",,0.03,-0.0138,-,-,-,0.0219
+27,"['ad', 'blocker', 'twitch', 'mobile', 'premium', 'sub', 'still', 'youtube', 'yt', 'nope']",using ad blocker,-,-,-,-,-,0.0117
+28,"['stream', 'forget', 'enjoy', 'snipe', 'start', 'stop', 'among', 'live', 'look', 'first']",stream sniping,0.0266,-,-,0.0276,-,0.0178
+29,"['play', 'jacksepticeye', 'corpse', 'want', 'still', 'vr', 'mario', 'vanoss', 'duo', 'among']",play games with streamer,0.0197,-0.0142,-,0.0111,-,0.0171
+36,"['gg', 'yay', 'win', 'lmfao', 'pete', 'lmaoooo', 'mod', 'team', 'ayyy', 'quick']",interjections and ,0.0141,-0.0132,-,-,-,0.0136
+39,"['yo', 'yumi', 'live', 'wtf', 'hair', 'tom', 'cut', 'sub', 'remember', 'freak']",mocking yumi,0.02,-,0.0112,-,-,0.0148
+4,"['lmao', 'arcadum', 'edgar', 'poor', 'hair', 'tho', 'troll', 'karma', 'tutorial', 'zorro']",,0.0154,-0.0144,-,-,-,0.0111
+44,"['game', 'fun', 'start', 'ruin', 'mod', 'lightning', 'audio', 'ever', 'among', 'vr']",the game is fun,0.0307,-0.0115,-,0.0305,-,0.0246
+45,"['code', 'use', 'moo', 'among', 'cover', 'want', 'terroriser', 'leak', 'streamlabs', 'plz']",,0.0122,-0.0173,-,-,-,0.0142
+46,"['bruh', 'mod', 'tf', 'moment', 'momento', 'face', 'camera', 'kick', 'kruz', 'cam']",,0.0284,-,0.0189,-,-,0.0262
+50,"['say', 'people', 'death', 'would', 'tom', 'vote', 'racist', 'scared', 'someone', 'want']",,0.0223,0.0154,0.0153,0.0337,-,0.019
+54,"['felix', 'quiet', 'ur', 'scare', 'poor', 'ghost', 'volume', 'sean', 'mic', 'need']",mocking the the stream as too loud,0.0206,-0.0148,0.0161,0.0116,-,0.0119
+55,"['think', 'brodie', 'noah', 'yumi', 'still', 'would', 'lazer', 'blue', 'sidearm', 'mau']",,-,-,-,-,-,0.0134
+58,"['turn', 'light', 'volume', 'mic', 'need', 'urself', 'please', '4th', 'cam', 'comment']",,0.0131,-0.0211,-,-,-,0.0135
+59,"['matter', 'black', 'life', 'op', 'blue', 'live', 'ops', 'lives', 'white', 'racist']",racism,0.0225,0.0297,0.0168,0.0216,-,0.0177
+62,"['imposter', '3rd', 'third', 'yumi', 'terroriser', 'win', '100', 'every', 'pete', 'lazer']",,0.0345,-0.0113,-,-,-,0.0215
+64,"['sup', 'man', 'pewdiefloorgang2', 'boy', 'bryan', 'pete', 'brine', 'yooooo', 'gamer', 'yoo']",,0.0131,-,-,-,-,0.0145
+68,"['ok', 'funny', 'yea', 'jesus', 'username', 'ah', 'take', 'soup', 'rea', 'cam']",,0.0161,-0.0135,-,-,-,0.0121
+69,"['join', 'work', 'try', 'want', 'com', 'please', 'take', 'pc', 'hour', 'gamer']",,-,-0.02,-,-,-,0.0114
+71,"['kill', 'win', 'want', 'try', 'mcnasty', 'stack', 'round', 'need', 'right', 'crazy']",winning the game,0.0164,-,-,-,0.0225,0.0121
+74,"['ya', 'tell', 'win', 'll', 'yeah', 'cut', 'top', 'peak', '1024', 'salty']",,-,-,-,-,-,0.0135
+75,"['loud', 'af', 'asf', 'really', 'sean', 'little', 'always', 'enough', 'jesus', 'bit']",mocking the the stream as too loud,0.0161,-,-,-,-,0.0246
+82,"['watch', 'live', 'fun', 'since', 'work', 'video', 'night', 'edgar', 'people', 'still']",,0.0335,-0.0112,0.0186,-,-,0.0138
+83,"['bo2', 'cod', 'great', '2020', 'hype', 'ever', 'old', 'right', 'though', 'start']",,0.0238,-,-,0.0167,-,0.0137
+84,"['big', 'brain', 'oof', 'fan', 'pete', 'small', 'right', 'pp', 'pewdiesmolpp', 'lemon']",,-,-0.0166,0.011,-,-,0.0157
+9,"['jack', 'quiet', 'voice', 'de', 'echo', 'increase', 'quite', 'vent', 'fine', 'vote']",mocking the the stream as too loud,0.021,-,-,-,-,0.0137
+94,"['talk', 'wtf', 'people', 'politic', 'among', 'still', 'stop', 'want', 'preston', 'alive']",,0.0303,-0.0122,0.0147,0.0118,-,0.0228
+96,"['damn', 'son', 'really', 'cam', 'face', 'pewd', 'nancy', 'boi', 'right', 'knife']",,0.0228,-,-,0.0145,-,0.0135
